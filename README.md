@@ -14,7 +14,7 @@ The objective of this project was to provide a comprehensive analysis of a workf
 - Satisfaction Audit: What are the median scores for Environment, Relationship, and Job Satisfaction?
 - How does the Performance Rating correlate with different age demographics?
 - Which department has the highest concentration of "Life Sciences" vs. "Medical" graduates?
-- Dashboard Interaction <a href="https://github.com/IbrahimEmarah/hr-workforce-analytics-dashboard/blob/main/HR%20Analysis%20Dashboard%201.png">View first Dashboard</a> <a href="https://github.com/IbrahimEmarah/hr-workforce-analytics-dashboard/blob/main/HR%20Analysis%20Dashboard%202.png">View first Dashboard</a> 
+- Dashboard Interaction <a href="https://github.com/IbrahimEmarah/hr-workforce-analytics-dashboard/blob/main/HR%20Analysis%20Dashboard%201.png">View first Dashboard</a> <a href="https://github.com/IbrahimEmarah/hr-workforce-analytics-dashboard/blob/main/HR%20Analysis%20Dashboard%202.png">View second Dashboard</a> 
 
 ## Process
 - Data Harmonization: Cleaned and structured employee records to ensure age bands (Under 25 to Over 55) and education fields were standardized for accurate filtering.
